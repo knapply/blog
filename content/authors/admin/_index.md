@@ -30,7 +30,7 @@ social:
   link: https://twitter.com/knapply_
 - icon: github
   icon_pack: fab
-  link: https://github.com/knapply_
+  link: https://github.com/knapply
 - icon: stack-overflow
   icon_pack: fab
   link: https://stackoverflow.com/users/7678928/knapply
