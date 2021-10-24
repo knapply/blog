@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>r | knapply()</title>
+    <link>https://knapply.netlify.app/tag/r/</link>
+      <atom:link href="https://knapply.netlify.app/tag/r/index.xml" rel="self" type="application/rss+xml" />
+    <description>r</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://knapply.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>r</title>
+      <link>https://knapply.netlify.app/tag/r/</link>
+    </image>
+    
+    <item>
+      <title>network</title>
+      <link>https://knapply.netlify.app/project/network/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://knapply.netlify.app/project/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RcppFastFloat</title>
+      <link>https://knapply.netlify.app/project/rcppfastfloat/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://knapply.netlify.app/project/rcppfastfloat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RcppSimdJson</title>
+      <link>https://knapply.netlify.app/project/rcppsimdjson/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://knapply.netlify.app/project/rcppsimdjson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tweetio</title>
+      <link>https://knapply.netlify.app/project/tweetio/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://knapply.netlify.app/project/tweetio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

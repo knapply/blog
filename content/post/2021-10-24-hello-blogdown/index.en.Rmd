@@ -1,0 +1,24 @@
+---
+title: Hello, blogdown!
+author: Brendan Knapp
+date: '2021-10-24'
+slug: hello-blogdown
+categories: []
+tags:
+  - programming
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-10-24T08:59:42-04:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+```{r}
+print("Hello, Wold!")
+```
+
