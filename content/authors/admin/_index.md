@@ -39,3 +39,5 @@ title: Brendan Knapp
 ---
 
 Data-driven professional.
+
+
